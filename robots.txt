@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://www.holominds.org/e713ccabd06a9b37.xml
